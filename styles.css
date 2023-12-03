@@ -1,0 +1,14 @@
+.body{
+    background-image: url(https://m.media-amazon.com/images/I/61eZ0wCviKL.__AC_SY300_SX300_QL70_FMwebp_.jpg);
+
+}
+.mainheading{
+    padding: 5px;
+    margin: 5px;
+    border-style: outset;
+    border-color: aqua;
+    border-width: 4px;
+    text-align: center;
+    color: blueviolet;
+    background-color: antiquewhite;
+}
